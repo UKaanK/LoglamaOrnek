@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\LoggingVisualization\\LoglamaOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBAFB49-3860-4A81-9204-6B57CAD143C9}|LoglamaOrnek.csproj|c:\\users\\casper excalibur\\source\\repos\\loggingvisualization\\loglamaornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBAFB49-3860-4A81-9204-6B57CAD143C9}|LoglamaOrnek.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBAFB49-3860-4A81-9204-6B57CAD143C9}|LoglamaOrnek.csproj|c:\\users\\casper excalibur\\source\\repos\\loggingvisualization\\loglamaornek\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AEBAFB49-3860-4A81-9204-6B57CAD143C9}|LoglamaOrnek.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\LoggingVisualization\\LoglamaOrnek\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\LoggingVisualization\\LoglamaOrnek\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-03T10:44:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\LoggingVisualization\\LoglamaOrnek\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\LoggingVisualization\\LoglamaOrnek\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:35:29.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

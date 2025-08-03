@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "idWigLCrrHs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\LoggingVisualization\\LoglamaOrnek\\LoglamaOrnek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Casper EXCALIBUR\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.7\\microsoft.extensions.configuration.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\Casper EXCALIBUR\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512",
+    "C:\\Users\\Casper EXCALIBUR\\.nuget\\packages\\serilog\\4.3.0\\serilog.4.3.0.nupkg.sha512",
+    "C:\\Users\\Casper EXCALIBUR\\.nuget\\packages\\serilog.formatting.compact\\3.0.0\\serilog.formatting.compact.3.0.0.nupkg.sha512",
+    "C:\\Users\\Casper EXCALIBUR\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\Casper EXCALIBUR\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\Casper EXCALIBUR\\.nuget\\packages\\serilog.sinks.http\\9.2.0\\serilog.sinks.http.9.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
