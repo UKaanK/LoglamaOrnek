@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoglamaOrnek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fdd4fc01152f30e89966d4a991efbfffcd8bc43")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoglamaOrnek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoglamaOrnek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
